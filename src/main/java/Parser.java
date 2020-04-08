@@ -8,6 +8,8 @@ import java.net.URL;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+//Parcer Погода с сайта pogoda.spb.ru
+
 public class Parser {
 
     private static Document getPage() throws IOException {
